@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="8" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5202" started-at="2019-04-17T13:35:23Z" finished-at="2019-04-17T13:35:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5202" started-at="2019-04-17T13:35:23Z" finished-at="2019-04-17T13:35:28Z">
+      <class name="com.qa.APITest.com.qa.APITest.AddBookTest">
+        <test-method status="PASS" signature="getpropertydata()[pri:0, instance:com.qa.APITest.com.qa.APITest.AddBookTest@73ad2d6]" name="getpropertydata" is-config="true" duration-ms="6" started-at="2019-04-17T13:35:24Z" finished-at="2019-04-17T13:35:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getpropertydata -->
+        <test-method status="PASS" signature="Addbookthroughhashmap(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.APITest.com.qa.APITest.AddBookTest@73ad2d6]" name="Addbookthroughhashmap" duration-ms="2990" started-at="2019-04-17T13:35:24Z" data-provider="getdata" finished-at="2019-04-17T13:35:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[APPIUMS]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ABC7896789]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[8.5888841234E10]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Catherine Zeta Jones]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Addbookthroughhashmap -->
+        <test-method status="PASS" signature="getpropertydata()[pri:0, instance:com.qa.APITest.com.qa.APITest.AddBookTest@73ad2d6]" name="getpropertydata" is-config="true" duration-ms="1" started-at="2019-04-17T13:35:27Z" finished-at="2019-04-17T13:35:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getpropertydata -->
+        <test-method status="PASS" signature="Addbookthroughhashmap(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.APITest.com.qa.APITest.AddBookTest@73ad2d6]" name="Addbookthroughhashmap" duration-ms="441" started-at="2019-04-17T13:35:27Z" data-provider="getdata" finished-at="2019-04-17T13:35:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[KOTLIN]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[JHD8988889]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[8.8644646464E10]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[JOS BUTTLER]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Addbookthroughhashmap -->
+        <test-method status="PASS" signature="getpropertydata()[pri:0, instance:com.qa.APITest.com.qa.APITest.AddBookTest@73ad2d6]" name="getpropertydata" is-config="true" duration-ms="1" started-at="2019-04-17T13:35:27Z" finished-at="2019-04-17T13:35:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getpropertydata -->
+        <test-method status="PASS" signature="Addbookthroughhashmap(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.APITest.com.qa.APITest.AddBookTest@73ad2d6]" name="Addbookthroughhashmap" duration-ms="419" started-at="2019-04-17T13:35:27Z" data-provider="getdata" finished-at="2019-04-17T13:35:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ANDROID]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[IKL33333323]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9.9878787878E10]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[MOEN ALI]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Addbookthroughhashmap -->
+        <test-method status="PASS" signature="getpropertydata()[pri:0, instance:com.qa.APITest.com.qa.APITest.AddBookTest@73ad2d6]" name="getpropertydata" is-config="true" duration-ms="1" started-at="2019-04-17T13:35:27Z" finished-at="2019-04-17T13:35:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getpropertydata -->
+        <test-method status="PASS" signature="Addbookthroughhashmap(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.APITest.com.qa.APITest.AddBookTest@73ad2d6]" name="Addbookthroughhashmap" duration-ms="466" started-at="2019-04-17T13:35:27Z" data-provider="getdata" finished-at="2019-04-17T13:35:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IOS]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[MNB885212]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[7.8778788789E10]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[SAM JONES]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Addbookthroughhashmap -->
+      </class> <!-- com.qa.APITest.com.qa.APITest.AddBookTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
